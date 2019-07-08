@@ -190,3 +190,6 @@
 'render_posts:cache/posts/post-desde-novo-clone.html', (323072, 393)
 'render_pages:output/posts/post-desde-novo-clone/index.html', (349184, 6425)
 'render_sources:output/posts/post-desde-novo-clone/index.rst', (342016, 268)
+'render_sources:output/posts/post-feito-desde-nova-env-criada/index.rst', (448000, 290)
+'render_pages:output/posts/post-feito-desde-nova-env-criada/index.html', (448512, 4839)
+'render_posts:cache/posts/post-feito-desde-nova-env-criada.html', (453632, 426)
