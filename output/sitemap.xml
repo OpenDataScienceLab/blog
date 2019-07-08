@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://localhost/archive.html</loc>
-  <lastmod>2019-07-08T21:09:00Z</lastmod>
+  <lastmod>2019-07-08T21:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/categories/</loc>
@@ -40,6 +40,10 @@
  <url>
   <loc>https://localhost/posts/novo-post-antes-de-clonar-o-novo/</loc>
   <lastmod>2019-07-08T21:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://localhost/posts/post-after-new-branch-src/</loc>
+  <lastmod>2019-07-08T21:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/posts/quinto-notebook-local/</loc>
