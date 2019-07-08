@@ -78,7 +78,7 @@
 'copy_assets:output/assets/css/roboto.css.map', (49152, 304)
 'copy_assets:output/assets/fonts/Material-Design-Icons.svg', (49664, 333)
 'copy_assets:output/assets/css/images/ie6/borderBottomLeft.png', (50176, 342)
-'sitemap:output/sitemap.xml', (178688, 2795)
+'sitemap:output/sitemap.xml', (178688, 2793)
 'copy_assets:output/assets/css/images/ie6/borderMiddleRight.png', (51712, 344)
 'render_taxonomies', (52224, 56)
 'copy_assets:output/assets/fonts/RobotoDraftRegular.woff2', (52736, 330)
