@@ -181,3 +181,6 @@
 'render_posts:cache/posts/post-after-new-branch-src.html', (254464, 404)
 'render_sources:output/posts/post-after-new-branch-src/index.rst', (258048, 275)
 'render_pages:output/posts/post-after-new-branch-src/index.html', (266752, 4765)
+'render_posts:cache/posts/post-depois-de-resolver-os-conflitos.html', (279552, 438)
+'render_sources:output/posts/post-depois-de-resolver-os-conflitos/index.rst', (280064, 298)
+'render_pages:output/posts/post-depois-de-resolver-os-conflitos/index.html', (280576, 4822)
