@@ -7,22 +7,30 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://localhost/</loc>
-  <lastmod>2019-07-08T16:56:00Z</lastmod>
+  <lastmod>2019-07-08T17:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://localhost/2019/</loc>
+  <lastmod>2019-07-08T17:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/archive.html</loc>
-  <lastmod>2019-07-08T16:56:00Z</lastmod>
+  <lastmod>2019-07-08T17:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/categories/</loc>
-  <lastmod>2019-07-08T16:56:00Z</lastmod>
+  <lastmod>2019-07-08T17:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/galleries/</loc>
-  <lastmod>2019-07-08T16:56:00Z</lastmod>
+  <lastmod>2019-07-08T17:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/listings/</loc>
-  <lastmod>2019-07-08T16:56:00Z</lastmod>
+  <lastmod>2019-07-08T17:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://localhost/posts/my-second-post-after-deploy/</loc>
+  <lastmod>2019-07-08T17:17:00Z</lastmod>
  </url>
 </urlset>
