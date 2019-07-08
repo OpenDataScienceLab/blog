@@ -125,3 +125,7 @@
 'copy_assets:output/assets/css/roboto.min.css.map', (78336, 312)
 'copy_assets:output/assets/fonts/glyphicons-halflings-regular.ttf', (78848, 350)
 'copy_assets:output/assets/js/fancydates.min.js', (79360, 455)
+'render_posts:cache/posts/my-second-post-after-deploy.html', (79872, 410)
+'render_taxonomies:output/2019/index.html', (80384, 1157)
+'render_sources:output/posts/my-second-post-after-deploy/index.rst', (81920, 279)
+'render_pages:output/posts/my-second-post-after-deploy/index.html', (88064, 4782)
