@@ -184,3 +184,6 @@
 'render_posts:cache/posts/post-depois-de-resolver-os-conflitos.html', (279552, 438)
 'render_sources:output/posts/post-depois-de-resolver-os-conflitos/index.rst', (280064, 298)
 'render_pages:output/posts/post-depois-de-resolver-os-conflitos/index.html', (280576, 4822)
+'render_pages:output/posts/new-post-com-novo-source-em-master/index.html', (300544, 4812)
+'render_posts:cache/posts/new-post-com-novo-source-em-master.html', (305664, 432)
+'render_sources:output/posts/new-post-com-novo-source-em-master/index.rst', (322560, 294)
