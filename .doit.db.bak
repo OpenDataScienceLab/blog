@@ -129,3 +129,6 @@
 'render_taxonomies:output/2019/index.html', (80384, 1157)
 'render_sources:output/posts/my-second-post-after-deploy/index.rst', (81920, 279)
 'render_pages:output/posts/my-second-post-after-deploy/index.html', (88064, 4782)
+'render_posts:cache/posts/terceiro-post-local-after-deploy.html', (95744, 424)
+'render_sources:output/posts/terceiro-post-local-after-deploy/index.rst', (96256, 288)
+'render_pages:output/posts/terceiro-post-local-after-deploy/index.html', (105472, 4796)
