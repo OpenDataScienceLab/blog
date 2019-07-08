@@ -7,30 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://localhost/</loc>
-  <lastmod>2019-07-08T17:28:00Z</lastmod>
+  <lastmod>2019-07-08T18:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/2019/</loc>
-  <lastmod>2019-07-08T17:28:00Z</lastmod>
+  <lastmod>2019-07-08T17:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/archive.html</loc>
-  <lastmod>2019-07-08T17:43:00Z</lastmod>
+  <lastmod>2019-07-08T19:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/categories/</loc>
-  <lastmod>2019-07-08T17:28:00Z</lastmod>
+  <lastmod>2019-07-08T17:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://localhost/pages/communities/</loc>
+  <lastmod>2019-07-08T19:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://localhost/pages/tools/</loc>
+  <lastmod>2019-07-08T19:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/posts/my-second-post-after-deploy/</loc>
-  <lastmod>2019-07-08T17:28:00Z</lastmod>
+  <lastmod>2019-07-08T17:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/posts/new-post-notebook/</loc>
-  <lastmod>2019-07-08T17:43:00Z</lastmod>
+  <lastmod>2019-07-08T17:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://localhost/posts/terceiro-post-local-after-deploy/</loc>
-  <lastmod>2019-07-08T17:29:00Z</lastmod>
+  <lastmod>2019-07-08T17:55:00Z</lastmod>
  </url>
 </urlset>
