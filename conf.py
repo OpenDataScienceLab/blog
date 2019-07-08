@@ -218,17 +218,38 @@ THEME_CONFIG = {
 
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
-)
-PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("posts/*.ipynb", "posts", "post.tmpl"),
+
+    #("posts/*.pandoc", "posts", "post.tmpl"),
+
 )
 
+PAGES = (
+    ("pages/*.rst", "pages", "story.tmpl"),
+    ("pages/*.txt", "pages", "story.tmpl"),
+    ("pages/*.md", "pages", "story.tmpl"),
+    ("pages/*.html", "pages", "story.tmpl"),
+    ("pages/*.ipynb", "pages", "story.tmpl"),
+
+    #("pages/*.pandoc", "pages", "story.tmpl"),
+)
+
+COMPILERS = {
+    "rest": ('.rst', '.txt'),
+    "markdown": ('.md', '.mdown', '.markdown'),
+    "textile": ('.textile',),
+    "txt2tags": ('.t2t',),
+    "bbcode": ('.bb',),
+    "wiki": ('.wiki',),
+    "ipynb": ('.ipynb',),
+    "html": ('.html', '.htm'),
+    "php": ('.php',),
+
+    #"pandoc": ('.rst', '.md', '.txt'),
+}
 
 # Below this point, everything is optional
 
@@ -289,24 +310,6 @@ TIMEZONE = "America/Sao_Paulo"
 # 'rest' is reStructuredText
 # 'markdown' is Markdown
 # 'html' assumes the file is HTML and just copies it
-COMPILERS = {
-    "rest": ('.rst', '.txt'),
-    "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm'),
-    # PHP files are rendered the usual way (i.e. with the full templates).
-    # The resulting files have .php extensions, making it possible to run
-    # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
-    # Pandoc detects the input from the source filename
-    # but is disabled by default as it would conflict
-    # with many of the others.
-    # "pandoc": ('.rst', '.md', '.txt'),
-}
 
 # Create by default posts in one file format?
 # Set to False for two-file posts, with separate metadata.
