@@ -7,10 +7,10 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://localhost/rss.xml</loc>
-  <lastmod>2019-07-08T21:35:00Z</lastmod>
+  <lastmod>2019-07-08T21:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://localhost/sitemap.xml</loc>
-  <lastmod>2019-07-08T21:35:00Z</lastmod>
+  <lastmod>2019-07-08T21:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
