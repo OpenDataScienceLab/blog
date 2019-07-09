@@ -253,7 +253,6 @@ COMPILERS = {
     "ipynb": ('.ipynb',),
     "html": ('.html', '.htm'),
     "php": ('.php',),
-
     #"pandoc": ('.rst', '.md', '.txt'),
 }
 
@@ -624,7 +623,7 @@ ATOM_FILENAME_BASE = "feed"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [["cambium/index.html", "/pages/cambium.html"], ["open-data-science-initiative/index.html", "/posts/open-data-science-initiative.html"], ["projects/index.html", "/pages/projects.html"], ["contact/index.html", "/pages/contact.html"], ["tools/index.html", "/pages/tools.html"], ["communities/index.html", "/pages/communities.html"]]
+REDIRECTIONS = []
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:

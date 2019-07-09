@@ -1,1 +1,0 @@
-<html><body><p>[contact-form to='contact@opendatasciencelab.com' subject='OpenDataScienceLab Contact'][contact-field label='Name' type='name' required='1'/][contact-field label='Email' type='email' required='1'/][contact-field label='Comment' type='textarea' required='1'/][/contact-form]</p></body></html>
