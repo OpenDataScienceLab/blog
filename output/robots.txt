@@ -1,4 +1,4 @@
-Sitemap: http://opendatasciencelab.com/sitemapindex.xml
+Sitemap: https://opendatasciencelab.github.io/blog/sitemapindex.xml
 
 User-Agent: *
-Host: opendatasciencelab.com
+Host: opendatasciencelab.github.io

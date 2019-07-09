@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://opendatasciencelab.com/</loc>
+  <loc>https://opendatasciencelab.github.io/blog/</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/2019/</loc>
+  <loc>https://opendatasciencelab.github.io/blog/2019/</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/archive.html</loc>
-  <lastmod>2019-07-09T16:58:00Z</lastmod>
+  <loc>https://opendatasciencelab.github.io/blog/archive.html</loc>
+  <lastmod>2019-07-09T17:23:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/categories/</loc>
+  <loc>https://opendatasciencelab.github.io/blog/categories/</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/collaborate/</loc>
+  <loc>https://opendatasciencelab.github.io/blog/pages/collaborate/</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/collaborate/index.src.html</loc>
+  <loc>https://opendatasciencelab.github.io/blog/pages/collaborate/index.src.html</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/open-data-science-initiative/</loc>
+  <loc>https://opendatasciencelab.github.io/blog/pages/open-data-science-initiative/</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/open-data-science-initiative/index.src.html</loc>
+  <loc>https://opendatasciencelab.github.io/blog/pages/open-data-science-initiative/index.src.html</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/posts/bem-vindos-ao-novo-blog/</loc>
+  <loc>https://opendatasciencelab.github.io/blog/posts/bem-vindos-ao-novo-blog/</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </url>
 </urlset>
