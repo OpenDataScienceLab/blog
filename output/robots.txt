@@ -1,4 +1,0 @@
-Sitemap: https://localhost/sitemapindex.xml
-
-User-Agent: *
-Host: localhost
