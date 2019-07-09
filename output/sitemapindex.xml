@@ -6,10 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://opendatasciencelab.com/galleries/rss.xml</loc>
-  <lastmod>2019-07-09T16:48:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://opendatasciencelab.com/rss.xml</loc>
   <lastmod>2019-07-09T16:48:00Z</lastmod>
  </sitemap>
