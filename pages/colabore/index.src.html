@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Colabore | Open Data Science Lab</title>
+
+<!--[if lt IE 9]>
+            <script src="../../assets/js/html5shiv.min.js"></script>
+            <script src="../../assets/js/respond.min.js"></script>
+        <![endif]--><meta name="author" content="Ivan Ogasawara">
+</head>
+<body>
+
+<p><br />#############################################################<br /><span style="color: #666699;"><strong>STEP BY STEP PUBLISHING INTO OPENDATASCIENCE-BLOG</strong></span><br />##############################################################</p>
+<p><strong>1</strong> - #INSTALL PYTHON-PIP<br />$ sudo apt install python3.6</p>
+<p>$ sudo apt install python3-pip</p>
+<p><strong>2</strong> - #CREATE AND ACTIVATE CONDA_ENV PY3.6<br />$ conda create --name OpenDScience-Blog python=3.6</p>
+<p>$ conda activate OpenDScience-Blog</p>
+<p><strong>3</strong> - #CLONAR REPOSITORIO<br />$ git clone https://github.com/esloch/nk-blog.git</p>
+<p><strong>4</strong> - #ABRIR O DIRETORIO<br />$ cd nk-blog</p>
+<p><strong>5</strong> - #LOGAR NO BRANCH SOURCE MASTER<br />$ git checkout origin/master</p>
+<p><strong>6</strong> - #INSTALLING EXTRAS, SETUPTOOLS, PIP, WEEL...</p>
+<p>#Note:<br />Updating pip, setuptools, and wheel is recommended.<br />$ pip install --upgrade pip setuptools wheel</p>
+<p>$ pip install --upgrade "Nikola[extras]"</p>
+<p><strong>7</strong> - #INSTALAR JUPYTER<br />$ pip install jupyterlab notebook</p>
+<p><strong>8</strong> - #COMPILAR O BLOG LOCAL<br />$ nikola build</p>
+<p><strong>9</strong> - #CRIAR NOVO POST NORMAL<br />$ nikola new_post</p>
+<p><strong>10</strong> - #CRIAR NOVO POST NOTEBOOK<br />nikola new_post -f ipynb</p>
+<p><strong>11</strong> - #EDITAR NOVO POST NOTEBOOK<br />ipython notebook<br />#&gt; SALVAR EDIÇÃO no jupyter</p>
+<p><strong>12</strong> - #COMPLIAR ALTERAÇÕES<br />$ nikola build</p>
+<p><strong>13</strong> - #PUBLICAR LOCALMENTE<br />$ nikola serve -b</p>
+<p><strong>14</strong> - #DEPLOY EM GITHUB<br />$ nikola github_deploy</p>
+<p>00- VEJA O BLOG EM: https://esloch.github.io/nk-blog/</p>
+<p>######################################################################################################<br />NOTA: &gt;&gt; O branch (gh-pages) é o repositório ao qual o http:// @github.io faz a leitura de index.html<br />&gt; O branch (gh-pages) é o repositório onde se publica o deploy desde o dev local<br /><br />&gt; O repositório (master) é onde esta o source com arquivos conf.py, é onde recebe os comandos de new_post</p>
+<p>&gt; O comando "$ nikola github_deploy" faz o build, add e commit dos arquivos em git e push para a rama master e publica em (gh-pages)</p>
+<p>&gt; O jupyter nao cria desde a interface a tag "date", sendo assim necessária a criação da tag antes de abrir o jupyter. (tem algumas issues a respeito com resolved já...)</p>
+<h6>################################################################<br /><span style="color: #666699;"><strong>ESTE É O MEU RESUMO DE ENTENDIMENTO BASEADO EM PRATICAS DO DIA A DIA rsrsrs...</strong></span><br /><span style="color: #666699;"><strong>FAVOR CORREGIREM OS PASSOS CONFORME VOSSAS PRATICAS E CONHECIMENTOS... </strong></span><br />################################################################</h6>
+
+
+</body>
+</html>
