@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://opendatasciencelab.com/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
+  <lastmod>2019-07-09T10:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/2015/</loc>
   <lastmod>2019-07-08T19:12:00Z</lastmod>
  </url>
  <url>
+  <loc>http://opendatasciencelab.com/2019/</loc>
+  <lastmod>2019-07-09T10:51:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://opendatasciencelab.com/archive.html</loc>
-  <lastmod>2019-07-09T10:34:00Z</lastmod>
+  <lastmod>2019-07-09T10:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/cambium/</loc>
@@ -50,24 +54,12 @@
   <lastmod>2019-07-08T19:12:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/cambium/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
- </url>
- <url>
   <loc>http://opendatasciencelab.com/pages/colabore/</loc>
   <lastmod>2019-07-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/pages/colabore/index.src.html</loc>
   <lastmod>2019-07-09T10:05:00Z</lastmod>
- </url>
- <url>
-  <loc>http://opendatasciencelab.com/pages/communities/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
- </url>
- <url>
-  <loc>http://opendatasciencelab.com/pages/contact/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/pages/open-data-science-initiative/</loc>
@@ -78,16 +70,32 @@
   <lastmod>2019-07-09T10:40:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/projects/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
+  <loc>http://opendatasciencelab.com/pages/restore_tools/cambium/</loc>
+  <lastmod>2019-07-09T10:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/pages/tools/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
+  <loc>http://opendatasciencelab.com/pages/restore_tools/communities/</loc>
+  <lastmod>2019-07-09T10:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/posts/open-data-science-initiative/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
+  <loc>http://opendatasciencelab.com/pages/restore_tools/contact/</loc>
+  <lastmod>2019-07-09T10:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://opendatasciencelab.com/pages/restore_tools/projects/</loc>
+  <lastmod>2019-07-09T10:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://opendatasciencelab.com/pages/restore_tools/tools/</loc>
+  <lastmod>2019-07-09T10:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://opendatasciencelab.com/posts/bem-vindos-ao-novo-blog/</loc>
+  <lastmod>2019-07-09T10:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://opendatasciencelab.com/posts/restore_posts/open-data-science-initiative/</loc>
+  <lastmod>2019-07-09T10:47:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/projects/</loc>
