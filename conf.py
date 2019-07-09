@@ -143,6 +143,7 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Tags'),
         ('/rss.xml', 'RSS'),
         ('/pages/colabore/index.html', 'Colabore'),
+        ('/pages/open-data-science-initiative/index.html', 'About'),
 
 
         )
