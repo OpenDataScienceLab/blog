@@ -10,16 +10,12 @@
   <lastmod>2019-07-09T10:51:00Z</lastmod>
  </url>
  <url>
-  <loc>http://opendatasciencelab.com/2015/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
- </url>
- <url>
   <loc>http://opendatasciencelab.com/2019/</loc>
   <lastmod>2019-07-09T10:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/archive.html</loc>
-  <lastmod>2019-07-09T10:51:00Z</lastmod>
+  <lastmod>2019-07-09T14:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/cambium/</loc>
@@ -27,11 +23,7 @@
  </url>
  <url>
   <loc>http://opendatasciencelab.com/categories/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
- </url>
- <url>
-  <loc>http://opendatasciencelab.com/categories/announcements/</loc>
-  <lastmod>2019-07-08T19:12:00Z</lastmod>
+  <lastmod>2019-07-09T10:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/communities/</loc>
@@ -62,12 +54,20 @@
   <lastmod>2019-07-09T10:05:00Z</lastmod>
  </url>
  <url>
+  <loc>http://opendatasciencelab.com/pages/collaborate/</loc>
+  <lastmod>2019-07-09T14:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://opendatasciencelab.com/pages/collaborate/index.src.html</loc>
+  <lastmod>2019-07-09T15:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://opendatasciencelab.com/pages/open-data-science-initiative/</loc>
   <lastmod>2019-07-09T10:34:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/pages/open-data-science-initiative/index.src.html</loc>
-  <lastmod>2019-07-09T10:40:00Z</lastmod>
+  <lastmod>2019-07-09T14:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/pages/restore_tools/cambium/</loc>
@@ -92,10 +92,6 @@
  <url>
   <loc>http://opendatasciencelab.com/posts/bem-vindos-ao-novo-blog/</loc>
   <lastmod>2019-07-09T10:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://opendatasciencelab.com/posts/restore_posts/open-data-science-initiative/</loc>
-  <lastmod>2019-07-09T10:47:00Z</lastmod>
  </url>
  <url>
   <loc>http://opendatasciencelab.com/projects/</loc>
