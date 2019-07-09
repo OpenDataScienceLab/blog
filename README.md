@@ -3,7 +3,7 @@ The Open Data Science Lab is an initiative to group people that like Open Scienc
  
 Collaborate with us read the step by step.
 
-Our official repository is:
+Our official blog-page is:
 
 https://opendatasciencelab.github.io/blog/
 
