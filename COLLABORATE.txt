@@ -1,0 +1,67 @@
+Colabore | Open Data Science Lab
+Step by step publishing into OpenDataScience-Blog
+ 
+
+1 - #INSTALL PYTHON-PIP-GIT
+$ sudo apt install python3.6
+$ sudo apt install python3-pip
+$ sudo apt install git
+
+2 - #CREATE AND ACTIVATE CONDA_ENV PY3.6
+$ conda create --name OpenDScience-Blog python=3.6
+
+$ conda activate OpenDScience-Blog
+
+3 - #FORK AND CLONE REPOSITORY (In the top-right corner of the page, click Fork.)
+$ git clone https://github.com/esloch/nk-blog.git
+
+4 - #OPEN DIRECTORY
+$ cd nk-blog
+
+5 - #LOGIN BRANCH SOURCE MASTER
+$ git checkout origin/master
+
+6 - #INSTALLING EXTRAS, SETUPTOOLS, PIP, WEEL...
+
+#Note:
+Updating pip, setuptools, and wheel is recommended.
+$ pip install --upgrade pip setuptools wheel
+
+$ pip install --upgrade "Nikola[extras]"
+
+7 - #INSTALLING JUPYTER
+$ pip install jupyterlab notebook
+
+8 - #COMPILE LOCAL BLOG
+$ nikola build
+
+9 - #CREATE NEW POST
+$ nikola new_post
+
+10 - #CREATE NEW POST NOTEBOOK
+$ nikola new_post -f ipynb
+
+11 - #EDIT NEW POST NOTEBOOK
+$ ipython notebook
+#> save after editing in jupyter
+
+12 - #BUILD CHANGES
+$ nikola build
+
+13 - #PUBLICATE LOCALLY
+$ nikola serve -b
+
+14 - #DEPLOY IN GITHUB
+$ nikola github_deploy
+
+00 - SEE THE BLOG AT:
+
+https://opendatasciencelab.github.io/blog/
+######################################################################################################
+NOTE:
+> The branch (gh-pages) is the repository to which http: // @ github.io reads index.html.
+> The branch (gh-pages) is the repository where deploy is published since the local dev.
+> The repository (master) is where the source with conf.py files is where it receives the nikola commands.
+> The command "$ nikola github_deploy" builds, adds and commits files in git and push to the master branch and publishes in (gh-pages).
+> Jupyter does not create the tag "date" from the interface, so it is necessary to create the tag before opening jupyter.
+################################################## ####################################################
