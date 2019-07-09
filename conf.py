@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Ivan Ogasawara"  # (translatable)
+BLOG_AUTHOR = "Open Data Science Lab Admin"  # (translatable)
 BLOG_TITLE = "Open Data Science Lab"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -24,7 +24,7 @@ SITE_URL = "http://opendatasciencelab.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://opendatasciencelab.com/"
-BLOG_EMAIL = "ivan.ogasawara@gmail.com"
+BLOG_EMAIL = "contact@opendatasciencelab.com"
 BLOG_DESCRIPTION = "Open Data Science Laboratory"  # (translatable)
 
 # Nikola is multilingual!
