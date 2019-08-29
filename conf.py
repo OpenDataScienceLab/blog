@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Tags'),
         ('/rss.xml', 'RSS'),
         ('/pages/collaborate/index.html', 'Collaborate'),
-        ('/pages/affiliated_projects/index.html', 'Children Projects'),
+        ('/pages/affiliated_projects/index.html', 'Affiliated Projects'),
         ('/pages/open-data-science-initiative/index.html', 'About'),
 
 

@@ -27,7 +27,7 @@
 'copy_assets:output/assets/js/html5shiv.min.js', (19456, 307)
 'render_pages', (19968, 56)
 'render_pages:output/pages/communities/index.html', (20480, 5120)
-'sitemap:output/sitemap.xml', (283136, 5325)
+'sitemap:output/sitemap.xml', (283136, 5326)
 'render_pages:output/pages/projects/index.html', (29184, 5099)
 'redirect:output/contact/index.html', (34304, 138)
 'copy_assets:output/assets/css/ipython.min.css', (259072, 654)
