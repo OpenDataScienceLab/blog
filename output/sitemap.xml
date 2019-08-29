@@ -7,38 +7,42 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://opendatasciencelab.github.io/blog/</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/2019/</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/archive.html</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T20:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/categories/</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://opendatasciencelab.github.io/blog/pages/affiliated_projects/</loc>
+  <lastmod>2019-08-23T20:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/pages/collaborate/</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/pages/collaborate/index.src.html</loc>
-  <lastmod>2019-07-09T19:23:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/pages/open-data-science-initiative/</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/pages/open-data-science-initiative/index.src.html</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://opendatasciencelab.github.io/blog/posts/bem-vindos-ao-novo-blog/</loc>
-  <lastmod>2019-07-09T19:01:00Z</lastmod>
+  <lastmod>2019-08-23T12:58:00Z</lastmod>
  </url>
 </urlset>

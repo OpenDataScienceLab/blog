@@ -1,0 +1,8 @@
+*.py[cod]
+__pycache__/
+cache/
+.doit.db
+.doit.db.db
+.venv
+nikolaserve.pid
+*.log
